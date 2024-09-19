@@ -1,15 +1,15 @@
-class Example():
-
-    def my_name(self):
-        print("\nIn my_name func: ", id(self))
-        self.name = "My name: Example class"
-        print(self.name)
-
-    def other_func(self):
-        print("\nIn other_name func: ", id(self))
+import pytest
+import os
+import sys
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+import time
+import math
 
 
 
-my_class = Example()
-my_class.my_name()
-my_class.other_func()
+import time
+import math
+
+answer = math.log(int(time.time()))
+print(str(answer))
