@@ -161,8 +161,3 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-selenium_course/pytest.ini
-selenium_course/sand_box.py
-selenium_course/test_abs_project.py
-/selenium_course/pytest_examples/secrets
-/selenium_course/pytest_examples/test_example.py
